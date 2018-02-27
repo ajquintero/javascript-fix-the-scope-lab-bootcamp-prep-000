@@ -11,7 +11,7 @@ function yourAnimal() {
   animal = 'cat'
 }
 yourAnimal();
-return animal;
+console.log(animal);
 
 function add2(n) {
   return n + two
